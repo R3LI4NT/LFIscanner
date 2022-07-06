@@ -2,6 +2,4 @@
 
 <h1 align="center"></h1>
 
-</br>
-
 Simple Local File Inclusion (LFI) scanner.

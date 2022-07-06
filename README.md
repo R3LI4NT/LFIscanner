@@ -23,6 +23,8 @@ Simple Local File Inclusion (LFI) scanner.
 
 </br>
 
+</br>
+
 
 `EXAMPLE:` **Detect LFI payloads**
 ```python

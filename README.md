@@ -39,3 +39,7 @@ python3 LFIscanner.py -t http://192.168.25.131/mutillidae/?page= --payload <payl
 ```
 
 ![example_2](https://user-images.githubusercontent.com/75953873/177440180-2e4eebbd-1b5b-44af-8d09-0b1e9ba4175e.png)
+
+</br>
+
+Payloads file by: https://github.com/emadshanab/LFI-Payload-List

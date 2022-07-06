@@ -21,6 +21,9 @@ Simple Local File Inclusion (LFI) scanner.
 > pip3 install -r requirements.txt
 ```
 
+</br>
+
+
 `EXAMPLE:` **Detect LFI payloads**
 ```python
 python3 LFIscanner.py -t http://192.168.25.131/mutillidae/?page= -p <payload-file>

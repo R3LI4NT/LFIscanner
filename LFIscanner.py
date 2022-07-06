@@ -11,7 +11,7 @@ parse.add_argument('-p','--payload',help="Payloads file [Default = payloads.txt]
 parse = parse.parse_args()
 
 # MANUAL
-#payloads = ['/etc/passwd/','../etc/pwa']
+#payloads = ['/etc/passwd/','../../../../etc/passwd']
 
 payloads = open(parse.payload,'r')
 

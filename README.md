@@ -2,7 +2,7 @@
 
 <h1 align="center"></h1>
 
-Simple Local File Inclusion (LFI) scanner.
+Local File Inclusion (LFI) scanner.
 
 ## Usage
 | COMMAND | DESCRIPTION |

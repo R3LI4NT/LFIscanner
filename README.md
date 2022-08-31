@@ -12,7 +12,7 @@ Local File Inclusion (LFI) scanner.
 | -e / --extract | Extract content |
 | -h / --help | Request help |
 
-## Insallation
+## Instalación / Installation
 ```
 > git clone https://github.com/R3LI4NT/LFIscanner
 
@@ -26,14 +26,14 @@ Local File Inclusion (LFI) scanner.
 </br>
 
 
-`EXAMPLE:` **Detect LFI payloads**
+`EXAMPLE:` **Detectar payloads LFI**
 ```python
 python3 LFIscanner.py -t http://192.168.25.131/mutillidae/?page= -p <payload-file>
 ```
 
 ![example](https://user-images.githubusercontent.com/75953873/177440070-5526fe9c-8455-492e-b0f6-eb47dfef74d6.png)
 
-`EXAMPLE:` **Extract content from the LFI**
+`EXAMPLE:` **Extraer información del payload LFI**
 ```python
 python3 LFIscanner.py -t http://192.168.25.131/mutillidae/?page= --payload <payload-file> --extract
 ```
